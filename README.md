@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **web development projects**
  
- 🌱 I’m currently learning **advanced React, Docker, AWS**
+ 🌱 I’m currently learning **advanced React, React Native, AWS**
 
 💬 Ask me about **C, Java, React, Python... or anything [here](https://github.com/shrawaniwagh2003/shrawaniwagh2003/issues)**
 
