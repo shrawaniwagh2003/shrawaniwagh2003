@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **advanced React, Docker, AWS**
 
-💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/shrawaniwagh2003/shrawaniwagh2003/issues)**
+💬 Ask me about **C, Java, React, Python... or anything [here](https://github.com/shrawaniwagh2003/shrawaniwagh2003/issues)**
 
 ⚡ Fun fact **I once built a personal website from scratch in 24 hours**
 
